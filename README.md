@@ -1,4 +1,4 @@
 SarPy
 =====
 
-Synthesis Aperture Radar (SAR) images processing
+Synthesis Aperture Radar (SAR) images processing in Python
